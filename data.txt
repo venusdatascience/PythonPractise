@@ -1,0 +1,11 @@
+Hello, my name is Venus.
+
+You can contact me at venus@gmail.com or venus123@yahoo.com.
+
+My phone numbers are 9841234567 and 9812345678.
+
+Visit my websites:
+https://www.github.com
+https://www.google.com
+
+I am learning Python and Data Science.
